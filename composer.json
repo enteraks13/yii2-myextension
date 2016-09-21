@@ -1,0 +1,13 @@
+{
+    "name": "enteraks13/yii2-myextension",
+    "description": "it is test",
+    "type": "yii2-extension",
+   
+
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": {
+            "enteraks13\\myextension\\": ""
+        }
+    }
+}
